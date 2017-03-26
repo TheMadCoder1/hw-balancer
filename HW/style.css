@@ -1,0 +1,58 @@
+
+
+
+
+.headerlogo {
+    margin-top: 30px;
+    margin-left: 20px;
+
+    letter-spacing: 2px;
+    font-family: 'Syncopate';
+    font-size: 35px;
+    font-style: 1px;
+    font-color: #6E706B;
+
+}
+
+#container  {background-color: #FFF; margin-bottom: 130px;  margin:auto; width: 1050px; 
+    border: 1px solid #575A53; height: 1500px; border-radius: 30px; margin-top: 120px; }
+
+body {
+    background-color: #F8F9F6}
+
+#page-header {
+    height: 80px;
+    width: 75%;
+    margin: auto;
+    text-align:center;
+    font-weight:bold;
+    font-style:italic;
+    border-bottom : 2px solid black;
+    font-family:sans-serif;
+}
+
+.g {margin: 30px 100px; line-height: 200%; }
+
+ul.small {line-height: 200%; margin: 30px 100px;}
+
+#login {
+    float:right;
+    position: relative;
+    top:-272px;
+    
+}
+
+.button {
+    background-color: #F8F9F6;
+    border: none;
+    color: #618866;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#app {
+    margin:auto;
+}
